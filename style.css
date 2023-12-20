@@ -196,7 +196,7 @@
         text-transform: none;
     }
     button {
-        -webkit-appearance: button;
+        /* -webkit-appearance: button; */
         cursor: pointer;
     }
     button::-moz-focus-inner, input::-moz-focus-inner {
@@ -242,7 +242,7 @@
         vertical-align: middle;
     }
     .img-responsive {
-        vertical-align: middle;
+        /* vertical-align: middle; */
         display: block;
         max-width: 100%;
         height: auto;
